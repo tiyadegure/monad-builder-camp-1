@@ -16,6 +16,12 @@ Web3 暑期实习计划 - Monad Buidler Camp
 
 <!-- Content_START -->
 # 2026-07-26
+<!-- DAILY_CHECKIN_2026-07-27_START -->
+[https://github.com/tiyadegure/monad-builder-camp/blob/main/daily/2026-07-27.md](https://github.com/tiyadegure/monad-builder-camp/blob/main/daily/2026-07-27.md)
+<!-- DAILY_CHECKIN_2026-07-27_END -->
+
+<!-- Content_START -->
+# 2026-07-26
 <!-- DAILY_CHECKIN_2026-07-26_START -->
 [https://github.com/tiyadegure/monad-builder-camp/blob/main/daily/2026-07-26.md](https://github.com/tiyadegure/monad-builder-camp/blob/main/daily/2026-07-26.md)
 <!-- DAILY_CHECKIN_2026-07-26_END -->
